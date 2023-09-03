@@ -1,2 +1,4 @@
 # github.demo
-This is my first github repositoy
+This is my first git Repository.
+<br>
+Author - Sapna Pandey
